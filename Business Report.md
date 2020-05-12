@@ -1,4 +1,9 @@
-###Assumptions
+#### Students Contributing to this report
+1. Nathan
+2. Ayush 
+3. Nafisul 
+4.Jianmu Huang
+### Assumptions
 
 - We will have to assume what the criteria is for likelihood on a person buying the product. (e.g. purchase history) 
 - Is the profiler tool an assumption? 
@@ -7,26 +12,26 @@
 
 ###Define the problem: 
 
-#####User 
+##### User 
 
 People who are interested on travelling and want to use ‘major travel company’. 
 
-#####Need 
+##### Need 
 
 To find out about the different holiday packages on offer for their destination 
 
-#####Insight 
+##### Insight 
 
 It is hard to know where to go and what to do in destinations you have not been before. 
 
 
-###Stakeholders
+### Stakeholders
 
 - Relationship Managers 
 - Customers 
 - Developers of the system 
 
-###Objectives of the system
+### Objectives of the system
 
 - The system will adjust the call flow rate to suitable Relationship Managers (RM) 
 - To provide improved call routing and dynamic call flow control for both inbound and outbound calls 
