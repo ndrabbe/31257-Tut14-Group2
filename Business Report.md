@@ -70,7 +70,7 @@ It is hard to know where to go and what to do in destinations you have not been 
 
 -------------
 
-## Empathy-Map
+## Empathy-Map （Draft in Discord）
 
 -------------
 ## How Might We (HMW) statements
