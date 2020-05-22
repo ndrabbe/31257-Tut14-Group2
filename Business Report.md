@@ -87,7 +87,19 @@ The main problem is that this large travel company needs to develop an informati
 -------------
 
 ## Ideation (Draft)
-
+### WE MET . . . 
+     (user are inspired by …) 
+### WE WERE SURPRISED TO NOTICE . . . 
+      (tension, contradiction or surprise) 
+### WE WONDER IF THIS MEANS . . . 
+       (what did you infer?) 
+### IT WOULD BE GAME CHANGING TO . . . 
+      (frame up an inspired challenge for yourself) 
+      (don’t dictate the solution) 
+      
+-------------
+//
+## Not relevant at the moment, just the idea of system operation
 1. Outbound call: The customer can place an order through a mobile terminal device such as an iPad or smartphone, and the order is stored in the system database. Then it will be sent to the information system through the central control computer. The information system will retrieve the customer's detailed information from the order information in the database and match it to the appropriate RM, and then transmit it to the CMC. The CMC will direct the automatic call distributor to automatically dial the buyer's phone if the RM phone is idle. If the answer is successful, then transfer to RM. If the answer is unsuccessful, continue to call the next buyer according to the information transmitted by the information system.
 
 2. Inbound calls: CMC has a dedicated automatic branch exchange to route calls. Customers dial the number that arrives at the CMC through their mobile device, and the information system will identify the customer with the highest skill score to receive priority service. CMC directs their calls to RM based on skill level and best match. When the RM's online phone is unavailable, CMC directs inbound customers to the interactive voice response unit, prompts them to choose the travel package they want to consult, or describes the reason for the call, and then feeds back the obtained information to CMC. CMC matches the feedback information with the RM information of the information system, and transmits all the adapted RM phones to the automatic call distributor to adjust the customer's call routing to the first available appropriate RM. When the customer waits for a long time, CMC will prompt and hang up the phone.
@@ -101,7 +113,7 @@ B. Profiler Tool:
 • Employee profile: RM configuration file is initialized during recruitment. Employees will initially conduct a 10-minute questionnaire survey to establish personal profiles and skill matrices. The information system will be scored and adjusted based on RM's sales performance and efficient customer service performance.
 
 • Customer profile: The information system will divide the customer ’s postal code and surname into social and cultural segments based on the order and create a customer profile.
-
+//
 -------------
 # Workproducts , Models 
 ## Prototyping
