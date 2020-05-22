@@ -75,4 +75,4 @@ B. Profiler Tool:
 
 • Customer profile: The information system will divide the customer ’s postal code and surname into social and cultural segments based on the order and create a customer profile.
 
-# Prototyping 
+*# Prototyping* 
