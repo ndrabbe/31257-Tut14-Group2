@@ -4,7 +4,7 @@
 3. Nafisul 
 4. Jianmu Huang
 
-# _Objectives of the system_
+# Objectives of the system
 
 - The system will adjust the call flow rate to suitable Relationship Managers (RM) 
 - To provide improved call routing and dynamic call flow control for both inbound and outbound calls 
@@ -20,6 +20,7 @@
 - During busy times, inbound customers can be directed to an Interactive Voice Response (IVP)
 - The IVP will prompt users for options, and may even ask for call reasons in a few words and then redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM. 
 
+-------------
 # Define the problem: 
   (Edit This Text)
   
