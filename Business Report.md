@@ -113,6 +113,7 @@ B. Profiler Tool:
 • Employee profile: RM configuration file is initialized during recruitment. Employees will initially conduct a 10-minute questionnaire survey to establish personal profiles and skill matrices. The information system will be scored and adjusted based on RM's sales performance and efficient customer service performance.
 
 • Customer profile: The information system will divide the customer ’s postal code and surname into social and cultural segments based on the order and create a customer profile.
+
 //
 -------------
 # Workproducts , Models 
