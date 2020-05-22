@@ -35,6 +35,7 @@
 - Relationship Managers 
 - Customers 
 - Developers of the system 
+- Tourist attraction providers: They are stakeholders. Travel companies are the medium. So they also get benefit.
 
 -------------
 # Assumptions
