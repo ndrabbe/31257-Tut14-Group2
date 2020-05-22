@@ -23,11 +23,11 @@
 -------------
 # Define the problem
 
-• The number and nature of holiday packages offered by travel companies complicate the operation of the system.
-• Inconsistent expectations: stakeholders may have different views on the functionality of the software.
-• Data security: ensure that privacy standards are followed and that customers' personal information is not disclosed.
-• During the software implementation phase, employees may find it difficult to adapt to the new system from the start.
-• Stakeholders may have different views on the functionality of the software, which may lead to different expectations.
+- The number and nature of holiday packages offered by travel companies complicate the operation of the system.
+- Inconsistent expectations: stakeholders may have different views on the functionality of the software.
+- Data security: ensure that privacy standards are followed and that customers' personal information is not disclosed.
+- During the software implementation phase, employees may find it difficult to adapt to the new system from the start.
+- Stakeholders may have different views on the functionality of the software, which may lead to different expectations.
 
 -------------  
 # Stakeholders
