@@ -47,7 +47,7 @@
 By reading the text, we can understand the emotions and beliefs of a major travel company. The company hopes to develop an information system to improve the operation of its internal call management center (CMC). The company hopes that the new system will adjust the call flow rate to the appropriate customer relationship manager (RM). In this way, accurate and efficient service can be achieved to match the information between the RM and the customer so that the customer can successfully purchase the travel package. In contrast, the company now does not have this new system so that the information between RM and customers can not be similarly matched, resulting in less sales of travel packages. Customers can not truly understand the true response of the content of the travel package area they want to purchase. RM can not provide timely and true feedback to customers regarding the content of travel packages. It can also be seen from the article that in the traditional system, CMC does not give customers priority call distribution services based on skill scores. On the other hand, the company's old system also did not include directing inbound customers to the interactive voice response unit when it encountered a busy period. This will enable the customer to have a response when making a call and wait, so that the customer will not feeling of being unable to make a call all the time. As a result, customers give up calling the company's sales hotline.
 
 -------------
-# Design Thinking principles
+# Design Thinking Principles
 
 ## Empathy-Map
 
