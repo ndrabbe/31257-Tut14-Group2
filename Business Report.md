@@ -46,7 +46,8 @@
 - Employees answer their questionnaire truthfully
 - Company have a high-end computer to ensure the normal operation of the system during peak hours
 - The system has a secure firewall to ensure the safety of customer and employee information.
-- CMC's skill score scoring standard should also refer to RM's purchase desire of customers to score. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
+- CMC's skill score scoring standard should also refer to RM mark to purchase desire of customers. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
+- The company has sufficient funds and resources to ensure the development of the information system.
 
 -------------
 # Analysis and design
@@ -113,7 +114,9 @@ B. Profiler Tool:
 • Employee profile: RM configuration file is initialized during recruitment. Employees will initially conduct a 10-minute questionnaire survey to establish personal profiles and skill matrices. The information system will be scored and adjusted based on RM's sales performance and efficient customer service performance.
 
 • Customer profile: The information system will divide the customer ’s postal code and surname into social and cultural segments based on the order and create a customer profile.
+
 //
+
 -------------
 # Workproducts , Models 
 ## Prototyping
