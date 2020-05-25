@@ -89,14 +89,13 @@ The main problem is that this large travel company needs to develop an informati
 
 ## Ideation (Draft)
 ### WE MET . . . 
-     (Ordinary and chaotic call management center) 
+Ordinary and chaotic call management center    
 ### WE WERE SURPRISED TO NOTICE . . . 
-     (The call management center can not match RM and customers based on RM's skills and customer profiles.) 
+The call management center can not match RM and customers based on RM's skills and customer profiles.
 ### WE WONDER IF THIS MEANS . . . 
-     (Due to the implementation of holiday packages, we hope to develop an information system to improve the precise                matching of customers and relationship managers to create high profits.) 
+Due to the implementation of holiday packages, we hope to develop an information system to improve the precise                matching of customers and relationship managers to create high profits.) 
 ### IT WOULD BE GAME CHANGING TO . . . 
-     (With the successful development of the information system. This will greatly improve the efficiency of the call 
-     management center, resulting in a good match between RM and customers. This move can save the company's time costs (call      costs) and labor costs (precise matching avoids many RMs in the same and repeating area).) 
+With the successful development of the information system. This will greatly improve the efficiency of the call management center, resulting in a good match between RM and customers. This move can save the company's time costs (call costs) and labor costs (precise matching avoids many RMs in the same and repeating area).
       
 -------------
 //
