@@ -47,6 +47,7 @@
 - Company have a high-end computer to ensure the normal operation of the system during peak hours
 - The system has a secure firewall to ensure the safety of customer and employee information.
 - CMC's skill score scoring standard should also refer to RM mark to purchase desire of customers. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
+- The company has sufficient funds and resources to ensure the development of the information system.
 
 -------------
 # Analysis and design
