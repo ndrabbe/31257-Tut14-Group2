@@ -46,7 +46,7 @@
 - Employees answer their questionnaire truthfully
 - Company have a high-end computer to ensure the normal operation of the system during peak hours
 - The system has a secure firewall to ensure the safety of customer and employee information.
-- CMC's skill score scoring standard should also refer to RM's purchase desire of customers to score. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
+- CMC's skill score scoring standard should also refer to RM mark to purchase desire of customers. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
 
 -------------
 # Analysis and design
