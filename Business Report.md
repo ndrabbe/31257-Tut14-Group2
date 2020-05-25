@@ -89,14 +89,14 @@ The main problem is that this large travel company needs to develop an informati
 
 ## Ideation (Draft)
 ### WE MET . . . 
-     (user are inspired by …) 
+     (Ordinary and chaotic call management center) 
 ### WE WERE SURPRISED TO NOTICE . . . 
-      (tension, contradiction or surprise) 
+     (The call management center can not match RM and customers based on RM's skills and customer profiles.) 
 ### WE WONDER IF THIS MEANS . . . 
-       (what did you infer?) 
+     (Due to the implementation of holiday packages, we hope to develop an information system to improve the precise                matching of customers and relationship managers to create high profits.) 
 ### IT WOULD BE GAME CHANGING TO . . . 
-      (frame up an inspired challenge for yourself) 
-      (don’t dictate the solution) 
+     (With the successful development of the information system. This will greatly improve the efficiency of the call 
+     management center, resulting in a good match between RM and customers. This move can save the company's time costs (call      costs) and labor costs (precise matching avoids many RMs in the same and repeating area).) 
       
 -------------
 //
