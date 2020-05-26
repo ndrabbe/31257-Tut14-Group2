@@ -119,6 +119,11 @@ B. Profiler Tool:
 -------------
 # Workproducts , Models 
 ## Prototyping
-
+(Edit This Text)
 
 -------------
+# Competitive advantages and possible effects if the project fails
+## Competitive Advantages
+
+-------------
+## Possible Effects from Failure
