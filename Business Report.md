@@ -118,12 +118,32 @@ B. Profiler Tool:
 
 -------------
 # Workproducts , Models 
-## Prototyping
+### backlog (1 to 3 or 4) user stories 
+(Edit This Text)
+
+-------------
+### Use case
+(Edit This Text)
+
+-------------
+### activity diagrams
+(Edit This Text)
+
+-------------
+### class diagrams 
+(Edit This Text)
+
+-------------
+### collaboration diagrams 
 (Edit This Text)
 
 -------------
 # Competitive advantages and possible effects if the project fails
 ## Competitive Advantages
+(Edit This Text)
 
 -------------
 ## Possible Effects from Failure
+(Edit This Text)
+
+-------------
