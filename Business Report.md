@@ -71,7 +71,50 @@ It is hard to know where to go and what to do in destinations you have not been 
 
 -------------
 
-## Empathy-Map （Draft in Discord）
+## Empathy-Map
+
+1. WHO are we empathizing with?
+- A major travel company.
+-------------
+2. What do they need to DO?
+- Develop an information system to improve the operation of its internal call management center (CMC).
+- They want the new system to adjust the call flow rate to the appropriate customer relationship manager (RM). 
+- Accurate and efficient service can be achieved to match the information between the RM and the customer so that the customer can successfully purchase the travel package.
+-------------
+3. What do they See?
+- Increase in the number of tourists.
+- The system realizes precise service for customers.
+- Seeing customers unfamiliar with the new system.
+- Seeing the success of the new system could be emulated by other companies.
+-------------
+4. What do they Say?
+- The system is quality and free of defects.
+- The system is safe.
+- They want to have after-sales service of system.
+-------------
+5. What do they DO?
+- They make changes that make the company better.
+- They may supervise and check the developer's work.
+- Answers calls and book flights
+- System buyers do not understand how the system works and need to be trained.	
+-------------
+6. What do they HEAR?
+- Good feedback from customers and RM.
+- Successful company image in the entire travel industry.
+- Other travel companies have similar systems.
+-------------
+7. What do they THINK and FEEL?
+PAINS | GAINS
+------------- ------------- ------------- ------------- ------------- ------------- -------------
+- System error.| - Want: Make customers have good service and strive for repeat customers.
+- Big cost for new system.|- Need: Increase income.
+- Whether the development of the system can promote the growth of the tourism industry.|- Hope: People come to their company                                                                                          |to buy travel packages.
+               |Dream: Dreaming of becoming a leader in the industry
+ ------------- ------------- -------------  ------------- ------------- -------------
+What other thoughts and feelings might motivate their behavior?
+- Information systems energize RMs, because they               work efficiently.
+- Fear that the operation of information systems does not conform to the habits and needs of customers.
+
 
 -------------
 ## How Might We (HMW) statements
