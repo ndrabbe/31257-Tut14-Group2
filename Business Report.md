@@ -51,7 +51,7 @@
 - The system has a secure firewall to ensure the safety of customer and employee information.
 - CMC's skill score scoring standard should also refer to RM mark to purchase desire of customers. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
 - The company has sufficient funds and resources to ensure the development of the information system.
-- 
+- the call centre has RMs from different backgrounds and experiences already to give a variety to the profiler tool to match from.
 
 -------------
 # Analysis and design
@@ -189,10 +189,23 @@ B. Profiler Tool:
 -------------
 # Competitive advantages and possible effects if the project fails
 ## Competitive Advantages
-(Edit This Text)
+
+- the new in-house call management centre would boost the chances of travel company recieving more travel packages and put it ahead of competetion.
+- the specialized matching technique of the call centre will help the company provide unparallel customer service to their customers and market it as their speciality.
+- the customers would prefer the travel company as it will take them lesser time to find a great travel plan/package for themselves, making it their go to travel company.
+
+----- add more if anyone can think of any.
+
 
 -------------
 ## Possible Effects from Failure
-(Edit This Text)
+ 
+- if the calling system fails, it might cost the travel company a ;ot as they have invested in the calling centre, employees(RMs), calling software, profiler tool etc.
+- the RMs will need to be re trained to handle the new system and there might be a case there the travel company scraps off the whole project leading to job losses.
+- Any advertisements or promotions done by the travel company to promote their new calling system might get negative attention and lead to various unhappy customers.
+
+
+--- add more if anyone can think of something
+
 
 -------------
