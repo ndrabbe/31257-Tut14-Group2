@@ -104,14 +104,17 @@ It is hard to know where to go and what to do in destinations you have not been 
 - Other travel companies have similar systems.
 -------------
 7. What do they THINK and FEEL?
+###### PAINS 
+-	System error.
+-	Big cost for new system.
+-	Whether the development of the system can promote the growth of the tourism industry.
+###### GAINS
+- Want: Make customers have good service and strive for repeat customers.
+- Need: Increase income.
+- Hope: People come to their company to buy travel packages.
+- Dream: Dreaming of becoming a leader in the industry
 
-                                   PAINS | GAINS
-                                                                           ------------ | ------------- 
-                         - System error.                                                | - Want: Make customers have good service and strive for repeat customers.
-              - Big cost for new system.                                                 | - Need: Increase income.
-         - Whether the development of the system can promote the growth of the tourism industry.  | - Hope: People come to their company to buy travel packages.                                                                                      
-                                          | Dream: Dreaming of becoming a leader in the industry. 
- ------------- ------------- -------------  ------------- ------------- -------------
+ -------------
 What other thoughts and feelings might motivate their behavior?
 - Information systems energize RMs, because they               work efficiently.
 - Fear that the operation of information systems does not conform to the habits and needs of customers.
