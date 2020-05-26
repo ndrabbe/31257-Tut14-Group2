@@ -37,17 +37,21 @@
 - Customers 
 - Developers of the system 
 - Tourist attraction providers: They are stakeholders. Travel companies are the medium. So they also get benefit.
+- Travel Company ..?
 
 -------------
 # Assumptions
 
 - We will have to assume what the criteria is for likelihood on a person buying the product. (e.g. purchase history) 
-- Is the profiler tool an assumption? 
+- the profiler tool can match properly based on age, sex, culture, language proficiency etc. based on the inputs of the customer.
+- the system should be able to calculate the employee(RM) score properly based on previous sales.
+- the profiler has enough information to successfully match RM and customer.
 - Employees answer their questionnaire truthfully
-- Company have a high-end computer to ensure the normal operation of the system during peak hours
+- Company have a high-end servers to ensure the normal operation of the system during peak hours
 - The system has a secure firewall to ensure the safety of customer and employee information.
 - CMC's skill score scoring standard should also refer to RM mark to purchase desire of customers. For example: if some customers have a short phone call for consultation, but they have a desire to buy.
 - The company has sufficient funds and resources to ensure the development of the information system.
+- 
 
 -------------
 # Analysis and design
