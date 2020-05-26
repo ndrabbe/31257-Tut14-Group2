@@ -113,9 +113,7 @@ It is hard to know where to go and what to do in destinations you have not been 
 - Need: Increase income.
 - Hope: People come to their company to buy travel packages.
 - Dream: Dreaming of becoming a leader in the industry
-
- -------------
-What other thoughts and feelings might motivate their behavior?
+###### What other thoughts and feelings might motivate their behavior?
 - Information systems energize RMs, because they               work efficiently.
 - Fear that the operation of information systems does not conform to the habits and needs of customers.
 
