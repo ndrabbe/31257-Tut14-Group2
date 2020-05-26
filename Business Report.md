@@ -166,7 +166,18 @@ B. Profiler Tool:
 //
 
 -------------
-# Workproducts , Models 
+# Workproducts , Models
+## Prototyping and models (User interfaces)
+
+-------------
+Iteratively complete:
+
+- Use case diagrams
+- Activity diagrams
+- Class diagrams
+- Collaborative Diagrams
+
+
 ### backlog (1 to 3 or 4) user stories 
 (Edit This Text)
 
