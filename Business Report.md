@@ -14,7 +14,7 @@
 
 ##### User 
 
-People who are interested on travelling and want to use ‘major travel company’. 
+People who are interested in travelling and want to use ‘major travel company’. 
 
 ##### Need 
 
@@ -49,6 +49,18 @@ It is hard to know where to go and what to do in destinations you have not been 
 
 ### Empathy Maps
 
-![Screenshot](CustomerEmpathyMap.PNG)
+![EMCustomer](CustomerEmpathyMap.PNG)
 
-![Screenshot](EmpathymapRm.PNG)
+![EMRelationshipManager](EmpathymapRm.PNG)
+
+### Point of View Statements
+
+User | Need | Insight
+------------ | ------------- | -------------
+People who are interested in travelling and want to use ‘major travel company’. | To find out about the different holiday packages on offer for their destination | It is hard to know where to go and what to do in destinations you have not been before
+People who are interested in travelling and want to use ‘major travel company’  | To understand what the culture and traditions of their destination | It important that the customer understands the culture in order to decide whether it is a suitable place for them to go on holiday
+People who are interested in travelling and want to use ‘major travel company’  | To start talking with a relationship manager within a timely period | Customers often hang up if they suffer from a long wait time
+Relationship managers working in ‘major travel company’  | To sell holiday packages to customers | It is difficult to find the best holiday package because there is such a wide variety of holiday packages at offered by the travel company
+Relationship managers working in ‘major travel company’  | To receive calls about destinations where they have relevant knowledge | They are receiving calls about destination they are not knowledgeable in. Having relevant knowledge about the destination will improve the likelihood of a sale.
+
+
