@@ -49,9 +49,9 @@ It is hard to know where to go and what to do in destinations you have not been 
 
 ### Empathy Maps
 
-![EMCustomer](CustomerEmpathyMap.PNG)
+![EMCustomer](Images/CustomerEmpathyMap.PNG)
 
-![EMRelationshipManager](EmpathymapRm.PNG)
+![EMRelationshipManager](Images/EmpathymapRm.PNG)
 
 ### Point of View Statements
 
