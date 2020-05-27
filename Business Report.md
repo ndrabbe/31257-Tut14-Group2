@@ -10,7 +10,7 @@
 - Employees answer their questionnaire truthfully 
 
 
-###Define the problem: 
+### Define the problem: 
 
 ##### User 
 
@@ -45,4 +45,10 @@ It is hard to know where to go and what to do in destinations you have not been 
 - A skill score is calculated based on the RM’s previous call duration and profile. (do they mean customer here?) 
 - A score from 1-10 based on the likelihood to purchase the product is given to a customer according to some preloaded criteria 
 - During busy times, inbound customers can be directed to an Interactive Voice Response (IVP)
-- The IVP will prompt users for options, and may even ask for call reasons in a few words and then redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM. 
+- The IVP will prompt users for options, and may even ask for call reasons in a few words and then redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM.
+
+### Empathy Maps
+
+![Screenshot](CustomerEmpathyMap.PNG)
+
+![Screenshot](EmpathymapRm.PNG)
