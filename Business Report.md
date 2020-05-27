@@ -63,4 +63,13 @@ People who are interested in travelling and want to use ‘major travel company�
 Relationship managers working in ‘major travel company’  | To sell holiday packages to customers | It is difficult to find the best holiday package because there is such a wide variety of holiday packages at offered by the travel company
 Relationship managers working in ‘major travel company’  | To receive calls about destinations where they have relevant knowledge | They are receiving calls about destination they are not knowledgeable in. Having relevant knowledge about the destination will improve the likelihood of a sale.
 
+### How Might We Statements 
 
+From the POV statements we were able to extract the following ‘How Might We’ (HMW) statements: 
+
+- How might we help customers understand the different holiday packages on offer? 
+- How might we make customers understand the culture of their destination? 
+- How might we decrease the amount of time a customer is waiting to speak to a RM? 
+- How might we improve the amount of holiday packages sold per RM? 
+- How might we make it easier for RM to select the best holiday package? 
+- How might we make sure that a customer is speaking to a RM with the relevant knowledge for their destination? 
