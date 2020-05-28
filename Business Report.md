@@ -87,3 +87,31 @@ The customer would call ‘major travel company’, they would be assigned a sco
 The system will automatically dial a number to an end-customer based on the RM’s target list. The system will get the details of the end-customer from its database and display it to the RM. Additionally the system will provide a script and guidelines to help the RM provide an enhanced service to the end-customer. 
 
 It is important to note that a target list is created by looking at the end-customer's profile, the system will determine some holiday packages it believes the user will be interested in buying. Following this it searches through all the RMs in the company to determine which one of them is most relevant to sell the proposed product. Finally, the target list is compiled into the format <potential customer, product proposed> and is appointed to the relevant RM. 
+
+##### New assumptions found
+
+Through our brainstorming the following assumptions were found: 
+- There will be administrators that are a part of major travel company that will perform administrative tasks for the system 
+- All current Relationship Managers have already completed the questionnaire.  
+- Relationship Managers will have access to a computer which is connected to the system as well as the internet. 
+
+### Backlog
+
+ID | As a... | I want to be able to... | So that... | Priority
+------------ | ------------- | ------------- | ------------- | -------------
+1 | End-Customer | Talk to a relationship manager in the quickest amount of time | I can start discussing which holiday package I can chose | M
+2 | End-Customer | Assigned a customer score when I call ‘major travel company’ | I can be put through to a RM and served in an appropriate amount of time  | M
+3 | End-Customer | Have my customer score updated after my call | The next time my call will be processed quicker | L
+4 | End-Customer | Be directed to an Iterative Voice Response unit during times of high traffic | I can be routed to the next available RM that is relevant to me | M
+5 | Relationship Manager | Always have the relevant knowledge about the customer’s destination  | I can improve my chance at a sale  | M
+6 | Relationship Manager | Be matched with customers according to my skills and the customer’s profile | I can provide better service and increase the likelihood of a sale | H
+7 | Relationship Manager | Have a customer target list | I can have a list of customers that I can call | H
+8 | Relationship Manager | See the customer’s details when performing an outbound call | I know which products I should propose to the customer | M
+9 | Relationship Manager | See a script of what I should be saying to the customer when performing an outbound call | I can provide an improved service to the customer | H
+10 | Relationship Manager | Complete an initial skills questionnaire | I can be initialized a RM Profile | H
+11 | Relationship Manager | Be assigned a skill score | I can be given appropriate calls according to my skill | M
+12 | Relationship Manager | Have an estimated call duration | I know how long I am supposed to take to help the customer | M
+13 | Relationship Manager | Have my skill score updated after my call | My skill score better represents my efficiency as a RM | M
+14 | Relationship Manager | See a list of popular holiday packages according to my destination | It is easier for me to select the best holiday package for the customer | L
+15 | Administrator | Add a Relationship Manager to the system | New Relationship Managers can be added to the system | H
+16 | Administrator | Store customer and RM information securely | Personal information is not easily attainable | M
