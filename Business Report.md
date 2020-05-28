@@ -122,3 +122,14 @@ ID | As a... | I want to be able to... | So that... | Priority
 ### Use Case Diagram
 
 ![UseCaseDiagram](Images/UseCaseDiagram.PNG)
+
+### Activity Diagrams
+
+##### Inbound Calls
+![UseCaseDiagram](Images/ADInbound.PNG)
+
+##### Outbound Calls
+![UseCaseDiagram](Images/ADOutbound.PNG)
+
+##### Creating Relationship Manager Profile
+![UseCaseDiagram](Images/ADnewRM.PNG)
