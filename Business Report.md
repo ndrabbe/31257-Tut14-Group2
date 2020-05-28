@@ -113,3 +113,12 @@ ID | As a... | I want to be able to... | So that... | Priority
 13 | Relationship Manager | Have my skill score updated after my call | My skill score better represents my efficiency as a RM | M
 14 | Relationship Manager | See a list of popular holiday packages according to my destination | It is easier for me to select the best holiday package for the customer | L
 
+### Use Cases
+
+- When a customer calls the ‘major travel company’ and needs to be redirected the appropriate RM. This is broken down into finding the correct RM as well as transferring to the Interactive Voice Response unit if necessary. 
+- When a RM uses the system to make an outbound call. This is broken down into getting customer details and displaying them. 
+- When a new RM wants to create their RM Profile
+
+### Use Case Diagram
+
+![UseCaseDiagram](Images/UseCaseDiagram.PNG)
