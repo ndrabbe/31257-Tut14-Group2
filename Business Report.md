@@ -1,7 +1,7 @@
 #### Students Contributing to this report
 1. Nathan
 2. Ayush 
-3. Nafisul 
+3. Nafisul
 4.Jianmu Huang
 ### Assumptions
 
@@ -72,4 +72,18 @@ From the POV statements we were able to extract the following ‘How Might We’
 - How might we decrease the amount of time a customer is waiting to speak to a RM? 
 - How might we improve the amount of holiday packages sold per RM? 
 - How might we make it easier for RM to select the best holiday package? 
-- How might we make sure that a customer is speaking to a RM with the relevant knowledge for their destination? 
+- How might we make sure that a customer is speaking to a RM with the relevant knowledge for their destination?
+
+### Reflection
+
+Seeing as the aim of the system is to improve the operation of the CMC there will be limited input by users. There will be heavy emphasis on automation, increasing the flow rate of calls to improve the rate of sale.It was brainstormed that a typical workflow would look like the following.
+
+##### For inbound calls:
+
+The customer would call ‘major travel company’, they would be assigned a score between 1-10. The system will look at the caller’s profile and determine which RM is most suitable for the customer and puts them in a waiting queue for this RM. During times of high traffic times, customers will be prompted by an Interactive Voice Response unit which will ask questions to further narrow down which RM they should talk to. They are redirected to the Automatic Call Distributor (ACD) which will then route them to the next relevant RM available. 
+
+##### For Outbound calls:
+
+The system will automatically dial a number to an end-customer based on the RM’s target list. The system will get the details of the end-customer from its database and display it to the RM. Additionally the system will provide a script and guidelines to help the RM provide an enhanced service to the end-customer. 
+
+It is important to note that a target list is created by looking at the end-customer's profile, the system will determine some holiday packages it believes the user will be interested in buying. Following this it searches through all the RMs in the company to determine which one of them is most relevant to sell the proposed product. Finally, the target list is compiled into the format <potential customer, product proposed> and is appointed to the relevant RM. 
