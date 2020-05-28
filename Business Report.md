@@ -90,8 +90,7 @@ It is important to note that a target list is created by looking at the end-cust
 
 ##### New assumptions found
 
-Through our brainstorming the following assumptions were found: 
-- There will be administrators that are a part of major travel company that will perform administrative tasks for the system 
+Through our brainstorming the following assumptions were found:
 - All current Relationship Managers have already completed the questionnaire.  
 - Relationship Managers will have access to a computer which is connected to the system as well as the internet. 
 
@@ -113,5 +112,4 @@ ID | As a... | I want to be able to... | So that... | Priority
 12 | Relationship Manager | Have an estimated call duration | I know how long I am supposed to take to help the customer | M
 13 | Relationship Manager | Have my skill score updated after my call | My skill score better represents my efficiency as a RM | M
 14 | Relationship Manager | See a list of popular holiday packages according to my destination | It is easier for me to select the best holiday package for the customer | L
-15 | Administrator | Add a Relationship Manager to the system | New Relationship Managers can be added to the system | H
-16 | Administrator | Store customer and RM information securely | Personal information is not easily attainable | M
+
