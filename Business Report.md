@@ -205,14 +205,16 @@ Iteratively complete:
 - the new in-house call management centre would boost the chances of travel company recieving more travel packages and put it ahead of competetion.
 - the specialized matching technique of the call centre will help the company provide unparallel customer service to their customers and market it as their speciality.
 - the customers would prefer the travel company as it will take them lesser time to find a great travel plan/package for themselves, making it their go to travel company.
-
------ add more if anyone can think of any.
+- The customers will get a personalized experience online without the hassle of visiting the travel agent office.
+- the product can be adapted to change for different packages and adding and removing preferences can be easy.
+- the relationship managers will be able to give a personal touch to the conversation because of the advanced profiler tool and help speed up the decision making for the customer. 
+- more successful sales with personalized results. therefore, the travel company will sell more packages making more revenue.
 
 
 -------------
 ## Possible Effects from Failure
  
-- if the calling system fails, it might cost the travel company a ;ot as they have invested in the calling centre, employees(RMs), calling software, profiler tool etc.
+- if the calling system fails, it might cost the travel company a lot as they have invested in the calling centre, employees(RMs), calling software, profiler tool etc.
 - the RMs will need to be re trained to handle the new system and there might be a case there the travel company scraps off the whole project leading to job losses.
 - Any advertisements or promotions done by the travel company to promote their new calling system might get negative attention and lead to various unhappy customers.
 
