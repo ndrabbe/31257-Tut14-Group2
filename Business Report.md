@@ -217,6 +217,14 @@ Iteratively complete:
 - if the calling system fails, it might cost the travel company a lot as they have invested in the calling centre, employees(RMs), calling software, profiler tool etc.
 - the RMs will need to be re trained to handle the new system and there might be a case there the travel company scraps off the whole project leading to job losses.
 - Any advertisements or promotions done by the travel company to promote their new calling system might get negative attention and lead to various unhappy customers.
+- stakeholder dissatisfaction
+- pressure on business executives
+- reduced shareholder wealth
+- possible closure of business
+- market share declined
+- inaccurate financial reporting
+- non-compliance with key business requirements
+- unnecessary exposure to news and system failures on online platforms
 
 
 --- add more if anyone can think of something
