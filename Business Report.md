@@ -137,3 +137,14 @@ ID | As a... | I want to be able to... | So that... | Priority
 ### Class Diagram
 
 ![ClassDiagram](Images/ClassDiagram.PNG)
+
+### Collaborative Diagrams
+
+##### Inbound Calls
+![CollaborativeDiagram1](Images/CDInbound.PNG)
+
+##### Outbound Calls
+![CollaborativeDiagram1](Images/CDOutbound.PNG)
+
+##### Creating Relationship Manager Profile
+![CollaborativeDiagram1](Images/CDnewRM.PNG)
