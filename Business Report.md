@@ -126,10 +126,14 @@ ID | As a... | I want to be able to... | So that... | Priority
 ### Activity Diagrams
 
 ##### Inbound Calls
-![UseCaseDiagram](Images/ADInbound.PNG)
+![ActivityDiagram1](Images/ADInbound.PNG)
 
 ##### Outbound Calls
-![UseCaseDiagram](Images/ADOutbound.PNG)
+![ActivityDiagram2](Images/ADOutbound.PNG)
 
 ##### Creating Relationship Manager Profile
-![UseCaseDiagram](Images/ADnewRM.PNG)
+![ActivityDiagram3](Images/ADnewRM.PNG)
+
+### Class Diagram
+
+![ClassDiagram](Images/ClassDiagram.PNG)
