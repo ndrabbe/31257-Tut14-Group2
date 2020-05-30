@@ -178,9 +178,10 @@ ID | As a... | I want to be able to... | So that... | Priority
 - When a new RM wants to create their RM Profile
 
 # Workproducts
+-------------
 
-## Prototyping and models (User interfaces)
-(Show Prototypes Images Here!)
+## Prototypes of User interfaces
+(Show Prototype Images Here!)
 
 ## Use Case Diagram
 
@@ -227,7 +228,6 @@ ID | As a... | I want to be able to... | So that... | Priority
 - more successful sales with personalized results. therefore, the travel company will sell more packages making more revenue.
 
 
--------------
 ## Possible Effects from Failure
  
 - if the calling system fails, it might cost the travel company a lot as they have invested in the calling centre, employees(RMs), calling software, profiler tool etc.
@@ -243,9 +243,8 @@ ID | As a... | I want to be able to... | So that... | Priority
 - unnecessary exposure to news and system failures on online platforms
 
 
--------------
-
 ## Outline of Scrum Activities Used
+-------------
 
 During the duration of this project we have used Scrum as our Agile methodology. Scrum involves constant improvements through changes to the project. This is supported by ‘daily stand-ups' where the team will come together and discuss what they are working on, and if they have any ‘blockers’ and try to figure out a way to solve these ‘blockers’. These stands-ups are enforced by the ‘scum-master’ who is in charge of making sure the scrum methodology is being applied throughout to the project. Similarly there is the used of a product backlog; a backlog which is prioritised in which all user stories are placed. This indicates all of the features that must be achieved before the end of the project. 
 
