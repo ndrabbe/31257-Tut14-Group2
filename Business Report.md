@@ -148,3 +148,9 @@ ID | As a... | I want to be able to... | So that... | Priority
 
 ##### Creating Relationship Manager Profile
 ![CollaborativeDiagram1](Images/CDnewRM.PNG)
+
+### Outline of Scrum Activities Used
+
+During the duration of this project we have used Scrum as our Agile methodology. Scrum involves constant improvements through changes to the project. This is supported by ‘daily stand-ups' where the team will come together and discuss what they are working on, and if they have any ‘blockers’ and try to figure out a way to solve these ‘blockers’. These stands-ups are enforced by the ‘scum-master’ who is in charge of making sure the scrum methodology is being applied throughout to the project. Similarly there is the used of a product backlog; a backlog which is prioritised in which all user stories are placed. This indicates all of the features that must be achieved before the end of the project. 
+
+In our project we thought daily ‘stands ups’ were not really feasible so instead we opted for weekly ‘stand ups’. Once a week we tried to get into a discord call to discuss about our progress in the project. This was quite useful as we were able to help each other out and we could work on diagrams as a team. We also had a project board which represented our product backlog, we added issues which were assigned to milestones which represented our sprints. We wanted to do 3 sprints however we changed it to 2 sprints as we felt is was more feasible with how busy team members were with other university assignments. We had Nathan appointed as ‘scrum-master', he was in-charge of initiating the calls and making sure the project board was updated. 
