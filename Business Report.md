@@ -10,21 +10,6 @@
 - Employees answer their questionnaire truthfully 
 
 
-### Define the problem: 
-
-##### User 
-
-People who are interested in travelling and want to use ‘major travel company’. 
-
-##### Need 
-
-To find out about the different holiday packages on offer for their destination 
-
-##### Insight 
-
-It is hard to know where to go and what to do in destinations you have not been before. 
-
-
 ### Stakeholders
 
 - Relationship Managers 
