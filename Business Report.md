@@ -169,10 +169,10 @@ ID | As a... | I want to be able to... | So that... | Priority
 ## Collaborative Diagrams
 
 ##### Inbound Calls
-![CollaborativeDiagram1](Images/CDInbound.PNG)
+![CollaborativeDiagram1](Images/CDOutbound.PNG)
 
 ##### Outbound Calls
-![CollaborativeDiagram1](Images/CDOutbound.PNG)
+![CollaborativeDiagram1](Images/CDInbound.PNG)
 
 ##### Creating Relationship Manager Profile
 ![CollaborativeDiagram1](Images/CDnewRM.PNG)
