@@ -32,6 +32,7 @@ The main problem is that this large travel company needs to develop an informati
 - Customers 
 - Developers of the system 
 - Tourist attraction providers
+- Travel Company
 
 # Assumptions
 
